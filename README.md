@@ -19,7 +19,7 @@ RaspTurbo is an all-in-one optimization toolkit designed to boost your Raspberry
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/raspturbo.git
+git clone https://github.com/pozstudiox/raspturbo.git
 cd raspturbo
 chmod +x installer.sh
 sudo ./installer.sh
